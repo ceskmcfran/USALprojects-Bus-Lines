@@ -1,2 +1,5 @@
 # USALprojects-Bus-Lines
 Bus road with Java's Jade
+
+### PLEASE, FORK THIS PROJECT IF YOU WANT TO WORK WITH HIM.
+### CONSIDER TO STAR THIS PROJECT, THANKS
